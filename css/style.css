@@ -1,0 +1,14 @@
+.container {
+  width: 960px;
+  margin: 0 auto;
+  background-color: lightgray;
+}
+
+.default {
+  background-color: black;
+  display: inline-block;
+}
+
+.active {
+  background-color: red;
+}
